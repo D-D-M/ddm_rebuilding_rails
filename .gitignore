@@ -2,6 +2,9 @@
 *~
 .*.sw?
 
+# Tag files
+tags
+
 *.gem
 *.rbc
 /.config
